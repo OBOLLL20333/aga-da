@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aga-da/static/css/main.8f7b947e.css",
+    "main.js": "/aga-da/static/js/main.a6e5ca32.js",
+    "static/js/787.28cb0dcd.chunk.js": "/aga-da/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img.jpg": "/aga-da/static/media/img.c82eefea233cc1778157.jpg",
+    "index.html": "/aga-da/index.html",
+    "main.8f7b947e.css.map": "/aga-da/static/css/main.8f7b947e.css.map",
+    "main.a6e5ca32.js.map": "/aga-da/static/js/main.a6e5ca32.js.map",
+    "787.28cb0dcd.chunk.js.map": "/aga-da/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f7b947e.css",
+    "static/js/main.a6e5ca32.js"
+  ]
+}
